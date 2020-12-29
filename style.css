@@ -1,0 +1,150 @@
+h1 {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: fantasy;
+    color: aqua
+}
+
+
+body {
+    margin: 0;
+    text-align: center;
+    background: linear-gradient(#42f5e3 0%, #a4f542 100%);
+    background-repeat: no-repeat;
+    background-color: crimson;
+}
+
+tittle {
+    font-size: 50pt;
+    color: #00897B;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+#mycarousel {
+    background-color: crimson
+}
+
+#mycarouselimg {
+    height: 300px;
+    margin-top: 15px;
+
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+    font-size: 30px;
+}
+
+#mycarouse2 {
+    background-color: crimson
+}
+
+#mycarouselimg {
+    height: 300px;
+    margin-top: 15px;
+
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+    font-size: 30px;
+}
+
+#mycarouse3 {
+    background-color: crimson
+}
+
+#mycarouselimg {
+    height: 300px;
+    margin-top: 15px;
+
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+    font-size: 30px;
+}
+
+#mycarouse4 {
+    background-color: crimson
+}
+
+#mycarouselimg {
+    height: 300px;
+    margin-top: 15px;
+
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+    font-size: 30px;
+}
+
+#img1 {
+    height: 300px;
+    width: 300px;
+}
+
+#img2 {
+    height: 300px;
+    width: 300px;
+}
+
+#img3 {
+    height: 300px;
+    width: 300px;
+}
+
+#img4 {
+    height: 300px;
+    width: 300px;
+}
+
+#img5 {
+    height: 300px;
+    width: 300px;
+}
+
+#img6 {
+    height: 300px;
+    width: 300px;
+}
+
+#img7 {
+    height: 300px;
+    width: 300px;
+}
+
+#img8 {
+    height: 300px;
+    width: 300px;
+}
+
+#h {
+    height: 500px;
+    width: 900px;
+}
+
+p {
+    font-size: 30pt;
+    color: crimson;
+    font-weight: bold;
+}
+h5{
+    font-size: 30pt;
+    font-weight: bold;
+    color:yellow;
+}
